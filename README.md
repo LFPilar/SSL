@@ -6,4 +6,4 @@
 # Datos Alumno:
 # Legajo: 105702/9
 # Apellido:  Pilar
-# Nombre: Leandro
+# Nombre: Leandro Francisco
