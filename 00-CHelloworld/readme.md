@@ -1,8 +1,8 @@
-Autor de la resolución
-Usuario github: LFPilar
-Legajo: 105702/9
-Apellido: Pilar
-Nombres: Leandro Francisco.
+-Autor de la resolución
+-Usuario github: LFPilar
+-Legajo: 105702/9
+-Apellido: Pilar
+-Nombres: Leandro Francisco.
 
 TP0 - "Hello, World!"
 
