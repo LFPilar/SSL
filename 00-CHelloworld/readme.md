@@ -1,4 +1,4 @@
-# *Autor de la resolución*
+# **AUTOR DE LA RESOLUCION**
 ## Usuario github: LFPilar
 ## Legajo: 105702/9
 ## Apellido: Pilar
