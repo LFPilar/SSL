@@ -4,9 +4,10 @@
 ## Apellido: Pilar
 ## Nombres: Leandro Francisco.
 
-# TP0 - "Hello, World!"
-#/////////////////////////   Tareas solicitadas.
-  _1. Si no posee una cuenta GitHub, crearla.
+# **NOMBRE DEL TRABAJO PRÁCTICO**
+## TP0 - "Hello, World!"
+### ///////////////////////// Tareas solicitadas.
+### 1. Si no posee una cuenta GitHub, crearla.
 2. Crear un repositorio público llamado SSL.
 9Productos
 3. Escribir el archivo readme.md que actúa como front page del repositorio
