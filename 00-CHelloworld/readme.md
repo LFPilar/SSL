@@ -1,10 +1,10 @@
-Autor de la resolución
+#Autor de la resolución
 
-  Usuario github: LFPilar
+  ##Usuario github: LFPilar
   
-  Legajo: 105702/9
+  ##Legajo: 105702/9
   
-  Apellido: Pilar
+  ##Apellido: Pilar
   
   Nombres: Leandro Francisco.
 
