@@ -1,5 +1,5 @@
 # **AUTOR DE LA RESOLUCION**
-## Usuario github: LFPilar
+## Usuario github: **LFPilar**
 ## Legajo: 105702/9
 ## Apellido: Pilar
 ## Nombres: Leandro Francisco.
@@ -35,6 +35,5 @@ Ninguna
 8. Compilador usado será el MSYS2, ya instalado.
 9. Sin comentarios.
 10. Sin comentarios.
-11. Sin comentarios.
-12. Ver 1b.
+11. Ver 1.
  
