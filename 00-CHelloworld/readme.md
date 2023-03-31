@@ -1,6 +1,7 @@
 Autor de la resolución
 
-Usuario github: LFPilar
+  Usuario github: LFPilar
+  
   Legajo: 105702/9
   
   Apellido: Pilar
