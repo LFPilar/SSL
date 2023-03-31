@@ -6,7 +6,6 @@
 
 * TP0 - "Hello, World!"
 /////////////////////////   Tareas solicitadas.
-*
 1. Si no posee una cuenta GitHub, crearla.
 2. Crear un repositorio público llamado SSL.
 9Productos
@@ -24,8 +23,8 @@ readme.md, hello.c, y output.txt .
 11.La última tarea es informar el usuario GitHub en la lista indicada en el curso
 *
 /////////////////////////   Hipótesis de trabajo que surgen luego de leer el enunciado
-Ningún inconveniente con la ejecución de tarea 1. En realidad, lo primero que hice fue crear mi usuario e informarlo a través de Aulas Virtuales.
-Tareas 2, 3 4 y 5 se hicieron desde la web de GitHub. Supongo que me llevará un poco más de tiempo adaptarme al uso del VSC y exportar los trabajos a git desde ahí.
+/Ningún inconveniente con la ejecución de tarea 1. En realidad, lo primero que hice fue crear mi usuario e informarlo a través de Aulas Virtuales.
+/Tareas 2, 3 4 y 5 se hicieron desde la web de GitHub. Supongo que me llevará un poco más de tiempo adaptarme al uso del VSC y exportar los trabajos a git desde ahí.
 Tarea 6: Desconozco lo que es un compilador C11 o C18. Sé que usaremos el MSYS2.
 Tarea7: Compilador usado será el MSYS2...
  
