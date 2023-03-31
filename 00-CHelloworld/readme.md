@@ -1,11 +1,12 @@
 * Autor de la resolución
 * Usuario github: LFPilar
-#Legajo: 105702/9
-#Apellido: Pilar
-#Nombres: Leandro Francisco.
+* Legajo: 105702/9
+* Apellido: Pilar
+* Nombres: Leandro Francisco.
 
-TP0 - "Hello, World!"
+* TP0 - "Hello, World!"
 /////////////////////////   Tareas solicitadas.
+*
 1. Si no posee una cuenta GitHub, crearla.
 2. Crear un repositorio público llamado SSL.
 9Productos
@@ -21,7 +22,7 @@ Hello, World! o similar.
 10.Publicar en el repositorio personal SSL la carpeta 00-CHelloWorld con
 readme.md, hello.c, y output.txt .
 11.La última tarea es informar el usuario GitHub en la lista indicada en el curso
-
+*
 /////////////////////////   Hipótesis de trabajo que surgen luego de leer el enunciado
 Ningún inconveniente con la ejecución de tarea 1. En realidad, lo primero que hice fue crear mi usuario e informarlo a través de Aulas Virtuales.
 Tareas 2, 3 4 y 5 se hicieron desde la web de GitHub. Supongo que me llevará un poco más de tiempo adaptarme al uso del VSC y exportar los trabajos a git desde ahí.
