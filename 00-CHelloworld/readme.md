@@ -21,11 +21,11 @@ Hello, World! o similar.
 10.Publicar en el repositorio personal SSL la carpeta 00-CHelloWorld con
 readme.md, hello.c, y output.txt .
 11.La última tarea es informar el usuario GitHub en la lista indicada en el curso
-*
+
 # **HIPÓTESIS DE TRABAJO QUE SURGEN LUEGO DE LEER EL ENUNCIADO**
 ### Ningún inconveniente con la ejecución de tarea 1. 
 ### En realidad, lo primero que hice fue crear mi usuario e informarlo a través de Aulas Virtuales.
-Tareas 2, 3 4 y 5 se hicieron desde la web de GitHub. Supongo que me llevará un poco más de tiempo adaptarme al uso del VSC y exportar los trabajos a git desde ahí.
-Tarea 6: Desconozco lo que es un compilador C11 o C18. Sé que usaremos el MSYS2.
-Tarea7: Compilador usado será el MSYS2...
+### Tareas 2, 3 4 y 5 se hicieron desde la web de GitHub. Supongo que me llevará un poco más de tiempo adaptarme al uso del VSC y exportar los trabajos a git desde ahí.
+### Tarea 6: Desconozco lo que es un compilador C11 o C18. Sé que usaremos el MSYS2.
+### Tarea7: Compilador usado será el MSYS2...
  
