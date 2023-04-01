@@ -22,7 +22,7 @@ Hello, World! o similar.
 11. La última tarea es informar el usuario GitHub en la lista indicada en el curso
 
 # **HIPÓTESIS DE TRABAJO QUE SURGEN LUEGO DE LEER EL ENUNCIADO**
-Si bien se aconseja la creación de un archivo .gitignore, aún no comprendo su utilidad. En caso de hacerlo debería seguir esta [guía] (https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo).
+Si bien se aconseja la creación de un archivo .gitignore, aún no comprendo su utilidad. En caso de hacerlo debería seguir esta [guía](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo).
 
 # **ACOTACIONES SOBRE LA RESOLUCIÓN**
 1. Ningún inconveniente con la ejecución de tarea 1. Una vez creado el perfil, ejecuté Tarea 11 (todavía no había leído que se trataba de la Tarea 11).
