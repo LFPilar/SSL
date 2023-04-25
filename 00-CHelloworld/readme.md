@@ -21,16 +21,13 @@ Hello, World! o similar.
 10. Publicar en el repositorio personal SSL la carpeta 00-CHelloWorld con readme.md, hello.c, y output.txt.
 11. La última tarea es informar el usuario GitHub en la lista indicada en el curso
 
-# **HIPÓTESIS DE TRABAJO QUE SURGEN LUEGO DE LEER EL ENUNCIADO**
-Si bien se aconseja la creación de un archivo .gitignore, aún no comprendo su utilidad. En caso de hacerlo debería seguir esta [guía](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo).
-
 # **ACOTACIONES SOBRE LA RESOLUCIÓN**
 1. Ningún inconveniente con la ejecución de tarea 1. Una vez creado el perfil, ejecuté Tarea 11 (todavía no había leído que se trataba de la Tarea 11).
 2. Se hizo desde la web de GitHub.
-4. Se hizo desde la web de GitHub. Supongo que me llevará un poco más de tiempo adaptarme al uso del VSC y exportar los trabajos a git desde ahí. La notación "Markdown" se utilizó consultando [Github - Formato y sintaxis de escritura](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+4. Se hizo desde la web de GitHub. Supongo que me llevará un poco más de tiempo adaptarme al uso del VSC y exportar los trabajos a git desde ahí. La notación "Markdown" para este primer TP se utilizó consultando [Github - Formato y sintaxis de escritura](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 5. Se hizo desde la web de GitHub.
-6. Se hizo desde la web de GitHub. Ver 3.
-7. Desconozco lo que es un compilador C11 o C18. Sé que usaremos el MSYS2.
+6. La versión del compilador es (según "gcc --version"): gcc (Rev10, Built by MSYS2 project) 12.2.0
+7. Indicado en 6.
 8. Compilador usado será el MSYS2, ya instalado.
 9. Sin comentarios.
 10. Sin comentarios.
