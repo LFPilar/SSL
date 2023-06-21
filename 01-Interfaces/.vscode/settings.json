@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "assert.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\LeandroPilar\\SSL\\01-Interfaces",
+            "binaryPath": "c:\\Users\\LeandroPilar\\SSL\\01-Interfaces\\TablasDeConversion",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\Users\\LeandroPilar\\SSL\\01-Interfaces",
+            "binaryPath": "c:\\Users\\LeandroPilar\\SSL\\01-Interfaces\\Tablas",
+            "binaryArgs": []
+        }
+    ],
+    "makefile.extensionOutputFolder": ""
+}
